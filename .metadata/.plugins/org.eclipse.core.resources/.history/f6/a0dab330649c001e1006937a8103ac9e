@@ -1,0 +1,11 @@
+package com.javatraining.pillar;
+
+public class Vehicle {
+	private void wheel() {
+		System.out.println("add wheel");
+	}
+
+	private void brake() {
+		System.out.println("add brake");
+	}
+}

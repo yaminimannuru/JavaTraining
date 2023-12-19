@@ -1,0 +1,15 @@
+package com.javatraining.pillar;
+
+public class Constructorex {
+
+	public Constructorex() { //Default constructor
+		System.out.println("default constructor");
+	}
+
+	public Constructorex(String s) { //parametrized constructor
+		System.out.println("parametrized constructor");
+	}
+	public static void main(String[] args) {
+		 Constructorex c = new  Constructorex("yamini");
+	}
+}

@@ -1,0 +1,15 @@
+package com.javatraining.pillar;
+
+public abstract class Abstractex {
+
+	public abstract void addproduct();
+	
+	public abstract void deleteproduct();
+	
+	public abstract void getproduct();
+	
+	public abstract void updateproduct();
+	
+	
+	
+}

@@ -1,0 +1,10 @@
+package com.javatraining.pillar;
+
+public class Constructorex {
+
+	public Constructorex() {
+	}
+
+	public Constructorex(String s) {
+	}
+}

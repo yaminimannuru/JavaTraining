@@ -1,0 +1,13 @@
+package com.practise;
+
+public class WhileLoopEx {
+
+	public static void main(String[] args) {
+		int n = 50;
+		int a=0;
+		while (a<=n) {
+			System.out.println("hello world");
+			a++;
+		}
+	}
+}

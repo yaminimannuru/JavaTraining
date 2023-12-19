@@ -1,0 +1,31 @@
+
+package com.javatraining.pillar;
+
+public class Inheritanceex extends Abstractex {
+
+	@Override
+	public void addproduct(int a) {
+	System.out.println("add product");	// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void deleteproduct() {
+		System.out.println("deleteproduct");// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void getproduct() {
+		System.out.println("getproduct");// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void updateproduct() {
+		System.out.println("updateproduct");// TODO Auto-generated method stub
+		
+	}
+	
+
+}

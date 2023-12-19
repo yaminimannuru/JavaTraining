@@ -1,0 +1,13 @@
+package com.javatraining.pillar;
+
+public class Grand_father {
+	public void land() {
+		System.out.println("my grandfather is having farmhouse");
+	}
+
+	public void gold() {
+		System.out.println("my grandfather is having 10kg gold");
+	}
+}
+
+
